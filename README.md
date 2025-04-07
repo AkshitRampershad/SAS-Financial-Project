@@ -47,18 +47,16 @@ SAS Visual Analytics: Dashboard creation and interactive reports
 
 
 ## Project Methodology
-## Phase 1: Data Preparation and Exploratory Analysis
-## Phase 2: Feature Engineering and Variable Selection
-## Phase 3: Credit Risk Modeling
-## Phase 4: Portfolio Optimization
-## Phase 5: Stress Testing and Scenario Analysis
-## Phase 6: Regulatory Capital Calculation
-## Phase 7: Reporting and Visualization
+Phase 1: Data Preparation and Exploratory Analysis
+Phase 2: Feature Engineering and Variable Selection
+Phase 3: Credit Risk Modeling
+Phase 4: Portfolio Optimization
+Phase 5: Stress Testing and Scenario Analysis
+Phase 6: Regulatory Capital Calculation
+Phase 7: Reporting and Visualization
 
 ## Future Enhancements
-### Integration of alternative data sources for enhanced predictive power
-### Implementation of machine learning techniques (gradient boosting, neural networks)
-### Development of real-time scoring API for instant credit decisions
-### Creation of interactive risk dashboards using SAS Visual Analytics
-
-
+Integration of alternative data sources for enhanced predictive power
+Implementation of machine learning techniques (gradient boosting, neural networks)
+Development of real-time scoring API for instant credit decisions
+Creation of interactive risk dashboards using SAS Visual Analytics
