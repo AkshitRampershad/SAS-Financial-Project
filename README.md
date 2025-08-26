@@ -47,7 +47,7 @@ SAS Visual Analytics: Dashboard creation and interactive reports
 
 
 ## Project Methodology
-# Phase 1: Data Preparation and Exploratory Analysis
+### Phase 1: Data Preparation and Exploratory Analysis
 # Pase 2: Feature Engineering and Variable Selection
 # Phase 3: Credit Risk Modeling
 # Phase 4: Portfolio Optimization
